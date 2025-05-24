@@ -1,5 +1,6 @@
 # structured-rag-pdf
-In this project, Thu Vu explored how to extract structured information from PDF documents, using Langchain and OpenAI models.
-
-You can find her video tutorial on Youtube:
+Based on the notebook and video by Thu Vu:
 https://www.youtube.com/watch?v=EFUE4DHiAPM
+
+Adapted by AJ Duncanson for a specific use case
+
