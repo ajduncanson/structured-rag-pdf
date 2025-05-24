@@ -1,4 +1,4 @@
 /data
 .env
 /vectorestore_chroma
-
+/vectorstore_chroma_2
