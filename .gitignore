@@ -2,3 +2,4 @@
 .env
 /vectorestore_chroma
 /vectorstore_chroma_2
+/results
